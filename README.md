@@ -18,6 +18,7 @@ A bunch of links to blog posts, articles, videos, etc for learning IonicFramewor
 [Multipart Articles](#multipart-articles)
 [Sample Apps](#sample-apps)
 [Layout](#ui-layout)
+[Directive](#directive)
 [Authentication](#authentication)
 [Collections](#collections--ngrepeat-stuff)
 [Code Organization](#code-organization)
@@ -85,7 +86,10 @@ A bunch of links to blog posts, articles, videos, etc for learning IonicFramewor
 * [auth.io](https://oauth.io/) Free
 * [auth0.com](https://auth0.com/) Free until 100 users
 * [Facebook Integration](http://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html)
-* [SignIn Using Firebase-Facebook](https://blog.nraboy.com/2015/03/sign-into-firebase-with-facebook-using-ionic-framework/)
+* [SignIn Using Firebase-Facebook](https://dzone.com/articles/sign-firebase-facebook-using)
+
+##Directives
+* [Ionic Lazy Image Loading](https://github.com/paveisistemas/ionic-image-lazy-load)
 
 
 
