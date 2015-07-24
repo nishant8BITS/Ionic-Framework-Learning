@@ -36,3 +36,8 @@ A bunch of links to blog posts, articles, videos, etc for learning IonicFramewor
 [Popular Third-Party Modules](#popular-third-party-modules)
 [Test Editor Bundles](#text-editor-bundleside-stuff)
 [Development Tools](#development-tools)
+
+
+##Code Organization
+* [Code Organisation For Beginners] (http://www.joshmorony.com/organising-code-in-an-ionic-application-for-beginners/)
+
