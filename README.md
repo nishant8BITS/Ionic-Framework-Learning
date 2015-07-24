@@ -43,6 +43,7 @@ A bunch of links to blog posts, articles, videos, etc for learning IonicFramewor
 ##Books
 * [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
 * [Full Stack Mobile App with Ionic Framework](http://www.amazon.it/Stack-Mobile-Ionic-Framework-English-ebook/dp/B00QF1H380/ref=sr_1_1?ie=UTF8&qid=1423560887&sr=8-1&keywords=full+stack+ionic)
+* [Learning Ionic](https://www.packtpub.com/application-development/learning-ionic)
 
 ##Code Organization
 * [Code Organisation For Beginners](http://www.joshmorony.com/organising-code-in-an-ionic-application-for-beginners/)
