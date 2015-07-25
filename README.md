@@ -26,8 +26,7 @@ A bunch of links to blog posts, articles, videos, etc for learning IonicFramewor
 [RESTful Stuff](#restful-stuff)
 [Localization](#localization)
 [UI Stuff](#ui-stuff)
-[Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)
-[Hosted Backends](#integration-with-other-languagesframeworks)
+[Integration with Other Languages/Frameworks](#integration-with-other-languagesframewo
 [Mobile](#mobile)
 [Popular Third-Party Modules](#popular-third-party-modules)
 [Development Tools](#development-tools)
