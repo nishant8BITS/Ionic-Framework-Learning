@@ -91,6 +91,9 @@ A bunch of links to blog posts, articles, videos, etc for learning IonicFramewor
 ##Directives
 * [Ionic Lazy Image Loading](https://github.com/paveisistemas/ionic-image-lazy-load)
 
+##Boilerplates & Seed Projects
+* [Ionic Angular Cordova Seed Project](https://github.com/driftyco/ionic-angular-cordova-seed)
+
 **Join** the community [Ionic Framework community](https://www.facebook.com/groups/1621534151458709/)!
 
 
